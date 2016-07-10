@@ -1,6 +1,6 @@
 # GNExceptions
 
-[![CI Status](http://img.shields.io/travis/Games Neox/GNExceptions.svg?style=flat)](https://travis-ci.org/Games Neox/GNExceptions)
+[![CI Status](http://img.shields.io/travis/games-neox/GNExceptions.svg?style=flat)](https://travis-ci.org/games-neox/GNExceptions)
 [![Version](https://img.shields.io/cocoapods/v/GNExceptions.svg?style=flat)](http://cocoapods.org/pods/GNExceptions)
 [![License](https://img.shields.io/cocoapods/l/GNExceptions.svg?style=flat)](http://cocoapods.org/pods/GNExceptions)
 [![Platform](https://img.shields.io/cocoapods/p/GNExceptions.svg?style=flat)](http://cocoapods.org/pods/GNExceptions)
