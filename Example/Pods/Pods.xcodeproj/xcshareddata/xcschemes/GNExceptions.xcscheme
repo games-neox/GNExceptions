@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'F21FC78FCDC81FA85C77319D'
+               BlueprintIdentifier = '522AD292BBA4264241819243'
                BlueprintName = 'GNExceptions'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'GNExceptions.framework'>

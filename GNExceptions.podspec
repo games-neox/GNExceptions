@@ -5,7 +5,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GNExceptions'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = '(Defenensive-code-related) exceptions for Objective-C'
 
   s.homepage         = 'https://github.com/games-neox/GNExceptions'
