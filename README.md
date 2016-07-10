@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/GNExceptions.svg?style=flat)](http://cocoapods.org/pods/GNExceptions)
 [![Platform](https://img.shields.io/cocoapods/p/GNExceptions.svg?style=flat)](http://cocoapods.org/pods/GNExceptions)
 
-Set of exceptions to make Objective-C projects more Defensive Code compliant.
+Set of exceptions to make Objective-C projects more Defensive Code compliant.  
 `IllegalArgumentException` - to be thrown if an argument is invalid  
 `IllegalStateException` - to be thrown if an invocation is invalid  
 `NilPointerException` - to be thrown if an argument is a `nil` pointer
