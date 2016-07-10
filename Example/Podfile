@@ -1,0 +1,6 @@
+use_frameworks!
+target 'GNExceptions_Tests' do
+  pod 'GNExceptions', :path => '../'
+  
+  
+end
