@@ -11,6 +11,7 @@
 #import <GNExceptions/NSException+DefaultName.h>
 
 
+
 @interface NSExceptionTest : XCTestCase
 
 @end

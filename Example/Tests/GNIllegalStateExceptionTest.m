@@ -11,6 +11,7 @@
 #import <GNExceptions/GNIllegalStateException.h>
 
 
+
 @interface GNIllegalStateExceptionTest : XCTestCase
 
 @end

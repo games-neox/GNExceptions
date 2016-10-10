@@ -11,6 +11,7 @@
 #import <GNExceptions/GNNilPointerException.h>
 
 
+
 @interface GNNilPointerExceptionTest : XCTestCase
 
 @end

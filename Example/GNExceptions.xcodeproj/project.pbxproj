@@ -133,12 +133,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6003F5C2195388D20070C39A /* Build configuration list for PBXNativeTarget "GNExceptions_Tests" */;
 			buildPhases = (
-				BACDC1189C49F8E3E9527866 /* Check Pods Manifest.lock */,
+				BACDC1189C49F8E3E9527866 /* [CP] Check Pods Manifest.lock */,
 				6003F5AA195388D20070C39A /* Sources */,
 				6003F5AB195388D20070C39A /* Frameworks */,
 				6003F5AC195388D20070C39A /* Resources */,
-				210717B0CA69A05C601E6945 /* Embed Pods Frameworks */,
-				979646FFC19A91D22C11CE6B /* Copy Pods Resources */,
+				210717B0CA69A05C601E6945 /* [CP] Embed Pods Frameworks */,
+				979646FFC19A91D22C11CE6B /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -194,14 +194,14 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		210717B0CA69A05C601E6945 /* Embed Pods Frameworks */ = {
+		210717B0CA69A05C601E6945 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Embed Pods Frameworks";
+			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -209,14 +209,14 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GNExceptions_Tests/Pods-GNExceptions_Tests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		979646FFC19A91D22C11CE6B /* Copy Pods Resources */ = {
+		979646FFC19A91D22C11CE6B /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Copy Pods Resources";
+			name = "[CP] Copy Pods Resources";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -224,14 +224,14 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GNExceptions_Tests/Pods-GNExceptions_Tests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		BACDC1189C49F8E3E9527866 /* Check Pods Manifest.lock */ = {
+		BACDC1189C49F8E3E9527866 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Check Pods Manifest.lock";
+			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -345,7 +345,6 @@
 			baseConfigurationReference = FD70D9CB65E7BE94633DA113 /* Pods-GNExceptions_Tests.debug.xcconfig */;
 			buildSettings = {
 				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
@@ -368,7 +367,6 @@
 			baseConfigurationReference = 5161568F851EE0C1B30E81E8 /* Pods-GNExceptions_Tests.release.xcconfig */;
 			buildSettings = {
 				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);

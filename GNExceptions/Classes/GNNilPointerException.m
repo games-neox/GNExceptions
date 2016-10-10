@@ -6,7 +6,7 @@
 //  Copyright © 2016 Games Neox. All rights reserved.
 //
 
-#import "GNNilPointerException.h"
+#import <GNExceptions/GNNilPointerException.h>
 
 
 

@@ -6,7 +6,7 @@
 //  Copyright © 2016 Games Neox. All rights reserved.
 //
 
-#import "NSException+DefaultName.h"
+#import <GNExceptions/NSException+DefaultName.h>
 
 
 

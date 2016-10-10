@@ -6,7 +6,7 @@
 //  Copyright © 2016 Games Neox. All rights reserved.
 //
 
-#import "GNIllegalStateException.h"
+#import <GNExceptions/GNIllegalStateException.h>
 
 
 

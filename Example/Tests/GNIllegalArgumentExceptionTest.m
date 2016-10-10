@@ -11,6 +11,7 @@
 #import <GNExceptions/GNIllegalArgumentException.h>
 
 
+
 @interface GNIllegalArgumentExceptionTest : XCTestCase
 
 @end
